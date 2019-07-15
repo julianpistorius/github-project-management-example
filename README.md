@@ -50,7 +50,7 @@ Note:
 
 You can create an organization for your lab and have all of your projects and repositories associated with this organization.
 
-1. Go to your Github profile
+1. Go to your GitHub profile
 2. Click the `+` next to your avatar. 
 3. Select New Organization and follow the prompts
 
@@ -86,7 +86,7 @@ For example, the Cyber Carpentry Participants Team.
 
 Issues are associated with a repository. Let's look them on this repository:
 
-[Github for Project Management Example](https://github.com/cyber-carpentry/github-project-management-example)
+[GitHub for Project Management Example](https://github.com/cyber-carpentry/github-project-management-example)
 
 Go to the repository and click the Issues tab.
 
@@ -97,7 +97,7 @@ With each issue you can:
 - Assign a person who will work on the issue
 - Assign a label that categorizes the issue. You can use the built-in labels and create your own to suit your needs.
 - Assign to a project. We will see more about projects later.
-- Close the issue with the reason it was closed (e.g. it was fixd and how, could not reproduce, etc.)
+- Close the issue with the reason it was closed (e.g. it was fixed and how, could not reproduce, etc.)
 
 
 ### Commits and issues
@@ -136,7 +136,7 @@ Projects can be associated with your personal GitHub profile or an organization.
 
 On the Cyber Carpentry organization page, click the Projects tab. You will see a list of projects we have created.
 
-Create a new project by clicking the big gree `New Project` button.
+Create a new project by clicking the big green `New Project` button.
 
 You can also get to your personal projects by clicking on your avatar and selecting `Your projects`.
 
@@ -171,7 +171,7 @@ If I close the issue it will be moved to the `Done` column.
 - Collections of Issues and Pull Requests for a particular release or project
 - Can have a due date
 
-You can create new Milestones on the Issue details page in the Milstone widget.
+You can create new Milestones on the Issue details page in the Milestone widget.
 
 ---
 
